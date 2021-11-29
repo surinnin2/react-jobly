@@ -1,0 +1,20 @@
+
+App
+
+	1. Nav
+
+	2. Homepage
+
+	3. CompanyList
+		a. Search
+		b. CompanyCard
+	
+	4. JobList
+		a. Search
+		b. JobCard
+
+	5. LoginForm
+
+	6. SignupForm
+
+	7. ProfileForm
